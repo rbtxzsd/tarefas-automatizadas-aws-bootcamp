@@ -10,9 +10,7 @@ A solução implementada segue o padrão *event-driven* (orientado a eventos) e 
 
 **Caso de Uso:** Sistema de Processamento de Notas Fiscais.
 
-O fluxograma abaixo (captura de tela da aula) ilustra a arquitetura que foi provisionada:
-
-*(Observação: Adicione a sua captura de tela/imagem aqui, por exemplo: `![Fluxograma da Arquitetura AWS](images/architecture.jpg)`)*
+[Fluxograma da Arquitetura AWS](imagem_2025-10-30_162807241.png)
 
 ### Fluxo de Dados:
 
