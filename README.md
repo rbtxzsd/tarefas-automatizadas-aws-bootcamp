@@ -1,6 +1,6 @@
-# Desafio DIO: Infraestrutura como Código com AWS CloudFormation
+# Desafio DIO: Automatizando tarefas com Lambda e S3
 
-Este repositório documenta a implementação do desafio "Automatizando com AWS CloudFormation" do bootcamp da [Digital Innovation One (DIO)](https://www.dio.me/).
+Este repositório documenta a implementação do desafio " Automatizando tarefas com Lambda e S3" do bootcamp da [Digital Innovation One (DIO)](https://www.dio.me/).
 
 O objetivo principal foi aplicar os conceitos de **Infraestrutura como Código (IaC)** para provisionar de forma automatizada uma arquitetura serverless na AWS, com base no caso de uso "Sistema de Processamento de Notas Fiscais" apresentado nas aulas.
 
